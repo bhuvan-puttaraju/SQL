@@ -3,7 +3,6 @@
 Hi! 👋  
 This repository is where I practice and improve my SQL skills by solving different problems and real-world case studies.
 
----
 
  📌 What’s in this repo?
 
